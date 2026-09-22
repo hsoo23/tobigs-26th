@@ -1,0 +1,5 @@
+투빅스 26기 이현수
+5주차 기술 블로그
+
+세션 복습 블로그: https://velog.io/@dlgustn4665/투빅스-5주차-정규세션-Computer-Vision
+논문 리뷰 블로그: https://velog.io/@dlgustn4665/투빅스-5주차-논문리뷰-CLIP-자연어로-학습한-시각-모델은-어떻게-Zero-Shot-Transfer를-가능하게-했을까
